@@ -1,7 +1,9 @@
 package model;
 
+// Esta clase representa la tabla "estudiantes" en la base de datos
 public class Estudiante {
     private int id;
+     // Columnas que representan los campos del formulario
     private String nombre;
     private String apellido;
     private String tipoDocumento;
